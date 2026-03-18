@@ -16,7 +16,7 @@ CRUD de Productos
 
 Se agrego un CRUD sencillo al mismo controlador, los productos se guardan en memoria y se pueden probar en Postman.
 
-GET  Ver todos los productos |
+GET  Ver todos los productos
 POST  `/saludos/productos/{nombre}` Agregar un producto
 PUT `/saludos/productos/{id}/{nombre}` Cambiar un producto
 DELETE `/saludos/productos/{id}` Borrar un producto 
